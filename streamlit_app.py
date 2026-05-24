@@ -18,7 +18,7 @@ warnings.filterwarnings("ignore")
 st.set_page_config(page_title="E-Commerce Analytics", page_icon="🛍️", layout="wide")
 
 # Mengatur palet warna agar seragam dan indah dipandang
-PALETTE    = ["#38BDF8", "#818CF8", "#34D399", "#FB923C", "#F472B6", "#FACC15", "#A78BFA"]
+PALETTE    = ["#38BDF9", "#818CF8", "#34D399", "#FB923C", "#F472B6", "#FACC15", "#A78BFA"]
 GRID_COLOR = "#334155"
 ACCENT     = "#38BDF8"
 WARN       = "#FACC15"
